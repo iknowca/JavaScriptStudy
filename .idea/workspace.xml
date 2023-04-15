@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbe7624-dbb8-497b-8f2a-e43a0cb7844b" name="Changes" comment="feat: [김원기] 함수 [JAVASCRIPTx]">
-      <change afterPath="$PROJECT_DIR$/ch06object/javaScriptObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06object/makeObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06object/object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06object/objectPropertyMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06object/prototype.js" afterDir="false" />
+    <list default="true" id="9dbe7624-dbb8-497b-8f2a-e43a0cb7844b" name="Changes" comment="feat: [김원기] 객체 [JAVASCRIPTx]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,19 +54,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.objectPropertyMethod.js">
-    <configuration name="javaScriptObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/javaScriptObject.js" working-dir="$PROJECT_DIR$/ch06object">
+    <configuration name="javaScriptObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch07object/javaScriptObject.js" working-dir="$PROJECT_DIR$/ch07object">
       <method v="2" />
     </configuration>
-    <configuration name="makeObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/makeObject.js" working-dir="$PROJECT_DIR$/ch06object">
+    <configuration name="makeObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch07object/makeObject.js" working-dir="$PROJECT_DIR$/ch07object">
       <method v="2" />
     </configuration>
-    <configuration name="objectPropertyMethod.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/objectPropertyMethod.js" working-dir="$PROJECT_DIR$/ch06object">
+    <configuration name="objectPropertyMethod.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch07object/objectPropertyMethod.js" working-dir="$PROJECT_DIR$/ch07object">
       <method v="2" />
     </configuration>
-    <configuration name="object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/object.js" working-dir="$PROJECT_DIR$/ch06object">
+    <configuration name="object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch07object/object.js" working-dir="$PROJECT_DIR$/ch07object">
       <method v="2" />
     </configuration>
-    <configuration name="prototype.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/prototype.js" working-dir="$PROJECT_DIR$/ch06object">
+    <configuration name="prototype.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch07object/prototype.js" working-dir="$PROJECT_DIR$/ch07object">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -93,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681487932744</updated>
       <workItem from="1681487933892" duration="7760000" />
-      <workItem from="1681545447982" duration="22925000" />
+      <workItem from="1681545447982" duration="25467000" />
     </task>
     <task id="LOCAL-00001" summary="feat: [김원기] 함수 [JAVASCRIPTx]">
       <created>1681558086684</created>
@@ -102,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681558086684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: [김원기] 객체 [JAVASCRIPTx]">
+      <created>1681576633549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681576633549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: [김원기] 함수 [JAVASCRIPTx]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: [김원기] 함수 [JAVASCRIPTx]" />
+    <MESSAGE value="feat: [김원기] 객체 [JAVASCRIPTx]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: [김원기] 객체 [JAVASCRIPTx]" />
   </component>
 </project>
