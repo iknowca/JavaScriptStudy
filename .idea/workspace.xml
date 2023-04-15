@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dbe7624-dbb8-497b-8f2a-e43a0cb7844b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arr2D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrAssociative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrInteration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrIteration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrSting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/arrType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/mkArr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05array/sparseArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/functionHoisting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/functionJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/functionReturn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/functionScope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/globalVaribaleWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/parameterAndArgument.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/preDefinedFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06function/variableScope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/javascriptWithHtml/externalExample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/javascriptWithHtml/externaljs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/javascriptWithHtml/innerExample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/print/consoleLog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/print/documentWrite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/print/htmlDomInnerHtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/print/windowAlertExample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4Control/breakExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4Control/breakLabelexample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4Control/continueExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4Control/continueLabel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4Control/example1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4Control/labelExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OQLbbIxPXFxwXr4PgSiuHraKh8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/iknow/Development/javascriptstudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch1/print" />
+      <recent name="$PROJECT_DIR$/ch1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.preDefinedFunction.js">
+    <configuration name="globalVaribaleWindow.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptstudy/ch06function/globalVaribaleWindow.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="functionHoisting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/functionHoisting.js" working-dir="$PROJECT_DIR$/ch06function">
+      <method v="2" />
+    </configuration>
+    <configuration name="functionScope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/functionScope.js" working-dir="$PROJECT_DIR$/ch06function">
+      <method v="2" />
+    </configuration>
+    <configuration name="parameterAndArgument.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/parameterAndArgument.js" working-dir="$PROJECT_DIR$/ch06function">
+      <method v="2" />
+    </configuration>
+    <configuration name="preDefinedFunction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/preDefinedFunction.js" working-dir="$PROJECT_DIR$/ch06function">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.preDefinedFunction.js" />
+        <item itemvalue="Node.js.parameterAndArgument.js" />
+        <item itemvalue="Node.js.functionHoisting.js" />
+        <item itemvalue="Node.js.functionScope.js" />
+        <item itemvalue="JavaScript Debug.globalVaribaleWindow.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbe7624-dbb8-497b-8f2a-e43a0cb7844b" name="Changes" comment="" />
+      <created>1681487932744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681487932744</updated>
+      <workItem from="1681487933892" duration="7760000" />
+      <workItem from="1681545447982" duration="11308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

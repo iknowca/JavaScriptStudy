@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Apply</title>
+
+</head>
+<body>
+<p>
+  자바스크립트를 이용하면 현재 날짜와 시간 정보에도 쉽게 접근 할 수 있어요!
+</p>
+<button onclick="printDate()">현재 날짜와 시간 표시하기</button>
+<p id="date"></p>
+<script>
+  function printDate() {
+    document.getElementById("date").innerHTML = Date()
+  }
+</script>
+</body>
+</html>
