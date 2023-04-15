@@ -4,43 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbe7624-dbb8-497b-8f2a-e43a0cb7844b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arr2D.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrAdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrAssociative.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrInteration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrIteration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrSting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/arrType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/mkArr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05array/sparseArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/functionHoisting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/functionJs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/functionReturn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/functionScope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/globalVaribaleWindow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/parameterAndArgument.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/preDefinedFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06function/variableScope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/javascriptWithHtml/externalExample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/javascriptWithHtml/externaljs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/javascriptWithHtml/innerExample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/print/consoleLog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/print/documentWrite.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/print/htmlDomInnerHtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/print/windowAlertExample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch4Control/breakExample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch4Control/breakLabelexample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch4Control/continueExample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch4Control/continueLabel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch4Control/example1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch4Control/labelExample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="9dbe7624-dbb8-497b-8f2a-e43a0cb7844b" name="Changes" comment="feat: [김원기] 함수 [JAVASCRIPTx]">
+      <change afterPath="$PROJECT_DIR$/ch06object/javaScriptObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06object/makeObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06object/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06object/objectPropertyMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06object/prototype.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,29 +58,29 @@
       <recent name="$PROJECT_DIR$/ch1" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.preDefinedFunction.js">
-    <configuration name="globalVaribaleWindow.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptstudy/ch06function/globalVaribaleWindow.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.objectPropertyMethod.js">
+    <configuration name="javaScriptObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/javaScriptObject.js" working-dir="$PROJECT_DIR$/ch06object">
       <method v="2" />
     </configuration>
-    <configuration name="functionHoisting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/functionHoisting.js" working-dir="$PROJECT_DIR$/ch06function">
+    <configuration name="makeObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/makeObject.js" working-dir="$PROJECT_DIR$/ch06object">
       <method v="2" />
     </configuration>
-    <configuration name="functionScope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/functionScope.js" working-dir="$PROJECT_DIR$/ch06function">
+    <configuration name="objectPropertyMethod.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/objectPropertyMethod.js" working-dir="$PROJECT_DIR$/ch06object">
       <method v="2" />
     </configuration>
-    <configuration name="parameterAndArgument.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/parameterAndArgument.js" working-dir="$PROJECT_DIR$/ch06function">
+    <configuration name="object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/object.js" working-dir="$PROJECT_DIR$/ch06object">
       <method v="2" />
     </configuration>
-    <configuration name="preDefinedFunction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06function/preDefinedFunction.js" working-dir="$PROJECT_DIR$/ch06function">
+    <configuration name="prototype.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ch06object/prototype.js" working-dir="$PROJECT_DIR$/ch06object">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.preDefinedFunction.js" />
-        <item itemvalue="Node.js.parameterAndArgument.js" />
-        <item itemvalue="Node.js.functionHoisting.js" />
-        <item itemvalue="Node.js.functionScope.js" />
-        <item itemvalue="JavaScript Debug.globalVaribaleWindow.html" />
+        <item itemvalue="Node.js.objectPropertyMethod.js" />
+        <item itemvalue="Node.js.object.js" />
+        <item itemvalue="Node.js.prototype.js" />
+        <item itemvalue="Node.js.makeObject.js" />
+        <item itemvalue="Node.js.javaScriptObject.js" />
       </list>
     </recent_temporary>
   </component>
@@ -123,11 +93,23 @@
       <option name="presentableId" value="Default" />
       <updated>1681487932744</updated>
       <workItem from="1681487933892" duration="7760000" />
-      <workItem from="1681545447982" duration="11308000" />
+      <workItem from="1681545447982" duration="22925000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: [김원기] 함수 [JAVASCRIPTx]">
+      <created>1681558086684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681558086684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: [김원기] 함수 [JAVASCRIPTx]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: [김원기] 함수 [JAVASCRIPTx]" />
   </component>
 </project>
